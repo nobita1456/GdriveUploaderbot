@@ -1,7 +1,7 @@
 {
   "name": "GDriveUploaderBot",
   "description": "Telegram bot To upload Files To Google Drive Remotely",
-  "repository": "https://github.com/kirodewal/GdriveUploaderbot",
+  "repository": "https://github.com/nobita1456/GdriveUploaderbot",
   "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
